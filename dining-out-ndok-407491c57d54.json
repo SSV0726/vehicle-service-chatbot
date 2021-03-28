@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dining-out-ndok",
+  "private_key_id": "407491c57d54ec2b500414d11d7663059fee58a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCLv16i/IYy+VqF\nAyQTDQJGC7aVG2/rQXMg7AaIbUDa+NkBIT+wAlH8rgDZ8kynPPzr6a7FqL5jrGFw\n/dHZlGxPpBf738N0CamzCbE1r4JZGWMpbkr3dizAE/3ypdJ7qwckFWjI7SgrKHmp\nUxEnX6iMmpiSpFrwIDk9w6M5wxR/sqKPz/qCp0OIezK6yE0HwfCGzcC40qLDpQEX\n7WqKSUZS6ArWkj5agznWUqEEEZ9A8adaEK1E/OU/OtmTWe+djJ4AoixB2i7UW2+X\nWS0Q+I9dQ6d3FytmcQt2zceZTzp1Om8yTQfyZDNsOiZkSjqWccWi5Lb/Toy3jPcg\n+M58iCAvAgMBAAECggEADbwEKA6bfd0F6Xayj/DCXXH/Qs5MhJmNIBoyViwuqJa2\ndSb4ZGsF9ciAKutmXzVeQi1YUPLRq2ggt4MqobC1qGofNVD7m6brd74nHXifXfRh\ny4uccI+7vDD6z2M+uYrIi+JSxxSP0xYKRvrz/6OmJBN5lUfz7A+usIROwXmLxTT7\nFogIeHvVE++mpPdFh9xtkl6asIvdXz7nhhX1f4wH8pnc1GA2Yi6HLi6HP8v8LPKd\nSc3Q4xmGABh+jsj9SVRvSa5ib9CgwAQjoy+HaafJdLc8huioAZgaHruUL/hixl+j\njih/QnxzItQS8eQpumVcAS25WVIHrbOIkf9KyKHDkQKBgQDByC1YsacDnjl7qAT6\nBAzl6iAFuJrWb9QobxsopJqwJv/8mQrXqRY3iDgVa7r3byyJWmtNSYkOnYx4asux\nMLugtv3tHZWhPihCXnptPOOkrWnJUIU32xMekvrcxf5OsCQk9ld+Er7ji4Fu1kkt\n4mv1PEJ/XXaVIaOFNu8dPbh52QKBgQC4nduqqLoTpd2c+c5kvFN9NLzKp5BQefXb\nwo6glx/DBNgj7o2cacS2cVRlvpqfCdG/MHL9dPAUF9MUCpDdPCOszHTnu9B5XtbI\nS7PrdifKl6iIu2jHTD82qfdyS66caGyUfJVCNp7E4I3haHC/0D0LUmn/EqA+gIU8\nb4IhK97dRwKBgCosXaoa58VCzzHZTFP5Q7FZ9eQo3BHlPqAaJif/QucpZbbcu95Z\nn0swqzwGOSeWm3O9KPMmGN0EbsjaPUBv4bXFfZf4Q1NXSr2/ABf8E3MIhqhYjNWu\nKQgTZuNbd9A6R3N/5WS7wa2V8/JiUoTY7TPvDG3ZsnAcZREd9oY/o4FpAoGAVZUw\nWOvA3wzcMEIJsN8w4PEKt/N3zibLl6WYks+b9L8RJ48V7LWHcIAW/NegPCvEJRpj\npCWKifYFbtv7DeQsMZXSd/60BR+298FIVdY/WgZ2JXSjfQhWoZOnVz/IYU9zTl52\nnuxNK71haGYPJox1UANTieBrkq3nlf2nWJNKzE8CgYAwb0D68ORsvmuoUbTc9RyV\nVrFog51owlmDSFcxlAPMxv0aFlM/X638cz7lQ37/87OHkpoSzu+7kREXDSVjVURg\nqjmeqK0cUdy1Qe+MR/nbryOrjdwV5qo6xuH2qTIJhWGFOHzXgzrEbae+DG7eLEXb\nMxp/il8QQ2prbRyZdJpL4Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cube-stop@dining-out-ndok.iam.gserviceaccount.com",
+  "client_id": "112145653681592747801",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cube-stop%40dining-out-ndok.iam.gserviceaccount.com"
+}
